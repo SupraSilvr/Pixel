@@ -37,5 +37,32 @@ ul {
   padding: 0;
   display: flex;
   gap: 1.25rem;
-  margin-top: 1.5rem;
+  text-align: center;
+  justify-content: center;
+}
+
+.jonny {
+  text-align:right;
+  color: white;
+  font-size:x-small;
+}
+
+img {
+  width:200px;
+  display:flex;
+  margin: auto;
+}
+.stuff {
+  text-align:center;
+  padding-right:3px;
+  margin-right:5px;
+  border-style:outset;
+  border-width:1px;
+  border-color:goldenrod;
+}
+
+.stuff:hover{
+  background-color: #38332c;
+  border-style:inset;
+  border-width:2px;
 }
