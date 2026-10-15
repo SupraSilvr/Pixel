@@ -4,5 +4,6 @@ This project was coded in Vscode.
 
 ![Screenshot](images/rm.png)
 
-Here I have my hacktime stats:
-{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
+## My Coding Stats
+
+See my [Hackatime coding stats](https://github.com/SupraSilvr#coding-stats).
